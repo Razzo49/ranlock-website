@@ -61,11 +61,11 @@ real outreach — no shortcut:
   Webster area), Pearland, League City, Sugar Land, The Woodlands. Chamber
   membership (usually $150-500/yr) typically comes with a member directory
   backlink from a high-authority local domain.
-- **Manufacturer "find a contractor" pages** — RANLOCK currently holds:
-  - **GAF Master Elite** — confirm RANLOCK's profile is live and current on GAF's own "Find a Contractor" directory (log into the GAF contractor portal to check/update the listing — don't guess the public URL, it's generated per-contractor by GAF). Master Elite status also qualifies RANLOCK to badge pages with the GAF Master Elite logo and reference GAF-backed extended warranties — use only GAF's current, approved logo/usage guidelines from the portal.
-  - **Owens Corning Preferred/Platinum Contractor** (confirm exact current tier before publishing, since the badge and backlink differ by tier) — same approach: log into the Owens Corning contractor portal to confirm/update the public locator listing.
+- **Manufacturer "find a contractor" pages** — RANLOCK is already listed on both:
+  - **GAF Master Elite** — already listed on GAF's "Find a Contractor" directory. Since the listing already exists, the remaining SEO work is just making sure ranlock.com itself links out to that GAF directory listing (and/or references the Master Elite badge on relevant roofing pages, using only GAF's current approved logo/usage guidelines), so the backlink relationship is visible in both directions.
+  - **Owens Corning Preferred Contractor** — already listed on Owens Corning's contractor locator (confirmed tier: Preferred, not Platinum — use "Preferred Contractor" in all badge/copy references, not "Platinum"). Same follow-up: link to that listing from ranlock.com and use the correct Preferred-tier badge.
   - Do not add CertainTeed SELECT ShingleMaster or any other manufacturer program RANLOCK doesn't hold.
-  - Confirm both certifications are current (not expired/lapsed) before publishing badges or backlink claims — these are typically renewed annually.
+  - Re-verify both listings annually at renewal time, since manufacturer certifications lapse if not renewed.
 - **Local news / sponsorships** — sponsoring a Little League team, high
   school booster club, or local charity event often comes with a webpage
   mention + link; local news coverage of a community-visible project
