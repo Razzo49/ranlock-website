@@ -61,11 +61,11 @@ real outreach — no shortcut:
   Webster area), Pearland, League City, Sugar Land, The Woodlands. Chamber
   membership (usually $150-500/yr) typically comes with a member directory
   backlink from a high-authority local domain.
-- **Manufacturer "find a contractor" pages** — *only if RANLOCK currently
-  holds the certification* (e.g., GAF Master Elite, Owens Corning Preferred
-  Contractor, CertainTeed SELECT ShingleMaster). Confirm which of these (if
-  any) RANLOCK actually holds before pursuing — do not represent an
-  uncertified status as certified anywhere.
+- **Manufacturer "find a contractor" pages** — RANLOCK currently holds:
+  - **GAF Master Elite** — confirm RANLOCK's profile is live and current on GAF's own "Find a Contractor" directory (log into the GAF contractor portal to check/update the listing — don't guess the public URL, it's generated per-contractor by GAF). Master Elite status also qualifies RANLOCK to badge pages with the GAF Master Elite logo and reference GAF-backed extended warranties — use only GAF's current, approved logo/usage guidelines from the portal.
+  - **Owens Corning Preferred/Platinum Contractor** (confirm exact current tier before publishing, since the badge and backlink differ by tier) — same approach: log into the Owens Corning contractor portal to confirm/update the public locator listing.
+  - Do not add CertainTeed SELECT ShingleMaster or any other manufacturer program RANLOCK doesn't hold.
+  - Confirm both certifications are current (not expired/lapsed) before publishing badges or backlink claims — these are typically renewed annually.
 - **Local news / sponsorships** — sponsoring a Little League team, high
   school booster club, or local charity event often comes with a webpage
   mention + link; local news coverage of a community-visible project
