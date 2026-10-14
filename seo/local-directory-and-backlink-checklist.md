@@ -52,7 +52,36 @@ any of these profiles unless it's actually true and current — several
 directories (BBB especially) verify this and a false claim can get a listing
 suspended.
 
-## 3. Backlink targets (earned links, not directories)
+## 3. Additional directories — second wave
+
+Beyond the priority-1 list above, these add incremental citation/backlink
+value. Lower individual impact each, but they compound, and several of them
+(the data aggregators especially) feed dozens of smaller directories
+automatically from one submission.
+
+| Directory | Why it matters | Notes |
+|---|---|---|
+| Data Axle (formerly Infogroup) | A single submission here feeds many downstream directories/apps that pull from it | Paid, but efficient — one submission vs. many |
+| Neustar Localeze | Same idea — a data aggregator feeding GPS/map apps and smaller directories | Paid |
+| Yellow Pages (YP.com) | Still indexed, still a legitimate citation | Free |
+| Superpages | Same category as YP | Free |
+| MapQuest | Still used by some map/navigation integrations | Free |
+| Manta | Small business directory, decent domain authority | Free |
+| Foursquare | Feeds some map/location apps | Free |
+| LinkedIn Company Page | Not a traditional directory, but a high-authority backlink + relevant for the B2B/commercial side of RANLOCK's business (property managers, GCs, facilities teams researching vendors) | Free |
+| National Roofing Contractors Association (NRCA) | Only if RANLOCK joins — strong industry-authority backlink | Paid membership |
+| Porch.com | Home-services directory, moderate traffic | Free tier available |
+| BuildZoom | Home-services/contractor directory, shows permit history in some markets | Free |
+
+For the commercial/B2B side specifically (property managers, HOAs, GCs,
+facilities teams — RANLOCK's other target segments per the outreach skill):
+municipal and property-management **vendor registration portals** are worth
+pursuing opportunistically. A `.gov` or large property-management company's
+"approved vendor" listing is both a lead source and a very high-authority
+backlink, though these are typically invite/registration-only rather than
+self-serve — treat as outreach, not a quick signup.
+
+## 4. Backlink targets (earned links, not directories)
 
 These move domain authority more than directory citations do, but take
 real outreach — no shortcut:
@@ -80,7 +109,7 @@ real outreach — no shortcut:
   relationships here (per the commercial-growth skill's target categories),
   ask if a mutual-partner page/link makes sense.
 
-## 4. Suggested cadence
+## 5. Suggested cadence
 
 | Week | Action |
 |---|---|
@@ -88,10 +117,13 @@ real outreach — no shortcut:
 | 2 | BBB basic listing + Yelp claim/clean-up |
 | 3 | Angi + Houzz (with real project photos) |
 | 4 | Nextdoor + Facebook Business Page NAP cleanup |
-| 5-6 | Join 1-2 local chambers relevant to highest-volume service cities |
-| Ongoing | One outreach email/week to a potential backlink source (supplier, association, local news) |
+| 5 | LinkedIn Company Page + Manta + BuildZoom + Porch.com |
+| 6 | Data Axle + Neustar Localeze submissions (feed the smaller directories automatically) |
+| 7 | YP.com + Superpages + MapQuest + Foursquare cleanup |
+| 8+ | Join 1-2 local chambers relevant to highest-volume service cities |
+| Ongoing | One outreach email/week to a potential backlink source (supplier, association, local news, or a property-management/municipal vendor portal) |
 
-## 5. Tracking
+## 6. Tracking
 
 Add a simple tracker (new tab in the existing prospect-tracking Sheet, or a
 new one) with columns: `directory_name, url, date_submitted, status
