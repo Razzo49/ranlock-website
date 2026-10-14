@@ -62,7 +62,7 @@ real outreach — no shortcut:
   membership (usually $150-500/yr) typically comes with a member directory
   backlink from a high-authority local domain.
 - **Manufacturer "find a contractor" pages** — RANLOCK is already listed on both:
-  - **GAF Master Elite** — already listed on GAF's "Find a Contractor" directory. Since the listing already exists, the remaining SEO work is just making sure ranlock.com itself links out to that GAF directory listing (and/or references the Master Elite badge on relevant roofing pages, using only GAF's current approved logo/usage guidelines), so the backlink relationship is visible in both directions.
+  - **GAF Certified Contractor** (not Master Elite — do not use "Master Elite" anywhere in copy or badges) — already listed on GAF's "Find a Contractor" directory. Since the listing already exists, the remaining SEO work is just making sure ranlock.com itself links out to that GAF directory listing (and/or references the GAF Certified Contractor badge on relevant roofing pages, using only GAF's current approved logo/usage guidelines for that specific tier), so the backlink relationship is visible in both directions.
   - **Owens Corning Preferred Contractor** — already listed on Owens Corning's contractor locator (confirmed tier: Preferred, not Platinum — use "Preferred Contractor" in all badge/copy references, not "Platinum"). Same follow-up: link to that listing from ranlock.com and use the correct Preferred-tier badge.
   - Do not add CertainTeed SELECT ShingleMaster or any other manufacturer program RANLOCK doesn't hold.
   - Re-verify both listings annually at renewal time, since manufacturer certifications lapse if not renewed.
